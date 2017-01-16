@@ -1,6 +1,7 @@
 //Dylan Martz
 //Tuesday/Thursday 11:00 Lecture
 //Tuesday 3:00 Lab
+//updated for practice github
 
 /**
 This is a stack data structure generic class that implements SimpleStackInterface
